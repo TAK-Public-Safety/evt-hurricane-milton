@@ -7,7 +7,7 @@ The following TAK Servers are available:
 - LEO / Federal - [https://milton.tak.gov](https://milton.tak.gov). You'll need to reach out to takrequest at leo.gov for credentials
 - SOCOM: CTIC is hosting the server. Contact your appropriate authorities
 - FLNG / FLSAR - PAR / BAH is hosting the Sit(X) server for these groups. If you don't have contact info reach out below and we'll connect you
-- Florida public safety / responders: [https://fltak.us](https://fltak.us_ should be your starting point. Registration / contact information is available there
+- Florida public safety / responders: [https://fltak.us](https://fltak.us) should be your starting point. Registration / contact information is available there
 - TAK Public Safety has a last resort server at [https://takserver.takps.org](https://takserver.takps.org)
 
 If you are authorized to access any of the above and need contact information reach out to hurricanemilton at takps.org and we'll get you routed to the right spot
