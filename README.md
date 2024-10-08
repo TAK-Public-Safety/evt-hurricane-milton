@@ -1,5 +1,5 @@
 # Hurricane Milton Response
-Coordination of Hurricane Milton Response between federal, state and local public safety organizations.
+Coordination of Hurricane Milton Response between federal, state and local public safety organizations. Available as a single page at [https://tak-public-safety.github.io/evt-hurricane-milton/](https://tak-public-safety.github.io/evt-hurricane-milton/)
 
 ## TAK Server
 A public safety TAK Server has been set up at [https://takserver.takps.org](https://takserver.takps.org) but requires approval to be added. Please reach out to hurricanemilton at takps.org for connection information.
