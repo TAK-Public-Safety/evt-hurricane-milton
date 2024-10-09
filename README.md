@@ -30,3 +30,6 @@ A locator URL is available at [https://takserver.takps.org:8446/locate/index.htm
 
 ## TAK Server Plugin for FL511
 Raytheon BBN (Nate Soule) has developed a TAK Server plugin for FL511 Data. Refer to [https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/fl511-plugin](https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/fl511-plugin) to download and install instructions
+
+## Alternate Comms
+* [The Hurricane Watch Net](https://hwn.org) is active on 14.325.00 MHz (USB) and 7.268.00 MHz (LSB)
