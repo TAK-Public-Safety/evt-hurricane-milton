@@ -26,6 +26,7 @@ A locator URL is available at [https://takserver.takps.org:8446/locate/index.htm
 * [Fire_and_Emergency_Medical_Service__EMS__Stations.kml](https://github.com/TAK-Public-Safety/evt-hurricane-milton/raw/refs/heads/main/Fire_and_Emergency_Medical_Service__EMS__Stations.kml)
 * [hospital_helipad_20240905.xlsx](https://github.com/TAK-Public-Safety/evt-hurricane-milton/raw/refs/heads/main/hospital_helipad_20240905.xlsx)
 * [NWS KML Data Package Zip](https://github.com/user-attachments/files/17286314/NHC_MILTON_KML_LINKS.zip)
+* [Animal_Shelter_MILTON_HADRv1-1.kmz](https://github.com/TAK-Public-Safety/evt-hurricane-milton/raw/refs/heads/main/Animal_Shelter_MILTON_HADRv1-1.kmz)
 * GeoJSONs for various Florida assets is available at [https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/geojson](https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/geojson)
 
 ## TAK Server Plugin for FL511
