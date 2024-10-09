@@ -33,3 +33,6 @@ Raytheon BBN (Nate Soule) has developed a TAK Server plugin for FL511 Data. Refe
 
 ## Alternate Comms
 * [The Hurricane Watch Net](https://hwn.org) is active on 14.325.00 MHz (USB) and 7.268.00 MHz (LSB)
+
+## PulsePoint Integration
+* If you want a feed of PulsePoint data, you can federate to the HurricaneMiltonDataFeed on the TAKPS Servers or follow the steps [here](https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/pulsepoint)
