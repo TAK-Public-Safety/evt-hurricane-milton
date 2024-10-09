@@ -14,3 +14,9 @@ PYTAK_TLS_CLIENT_CERT=<REPLACEWITHUSER>.pem
 PYTAK_TLS_CLIENT_KEY=<REPLACEWITHUSER>.nopass.key
 PYTAK_TLS_DONT_VERIFY=1
 ```
+
+To find more - go to https://web.pulsepoint.org. Search for the agency you want. Use the inspector to see the API call it's making - the agency ID will be in the URL. 
+
+![image](https://github.com/user-attachments/assets/d5f4048a-3233-4f71-a428-15535e01b75b)
+
+Add it to the AGENCY_IDS line in your config.ini file
