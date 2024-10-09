@@ -21,6 +21,8 @@ A locator URL is available at [https://takserver.takps.org:8446/locate/index.htm
 
 ![JPEG image-43BA-91F0-A4-0](https://github.com/user-attachments/assets/52907664-fa0d-415a-950b-bd1d72dac640)
 
-## NHC KML Data Package
-* Additional data packages / KMLs are being created now
-* [Data Package Zip](https://github.com/user-attachments/files/17286314/NHC_MILTON_KML_LINKS.zip)
+## Data Packages and Resources
+* [FEMA.REGIONS.nws.zip](https://github.com/TAK-Public-Safety/evt-hurricane-milton/raw/refs/heads/main/FEMA.REGIONS.nws.zip)
+* [Fire_and_Emergency_Medical_Service__EMS__Stations.kml](https://github.com/TAK-Public-Safety/evt-hurricane-milton/raw/refs/heads/main/Fire_and_Emergency_Medical_Service__EMS__Stations.kml)
+* [hospital_helipad_20240905.xlsx](https://github.com/TAK-Public-Safety/evt-hurricane-milton/raw/refs/heads/main/hospital_helipad_20240905.xlsx)
+* [NWS KML Data Package Zip](https://github.com/user-attachments/files/17286314/NHC_MILTON_KML_LINKS.zip)
