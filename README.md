@@ -43,7 +43,7 @@ A locator URL is available at [https://takserver.takps.org:8446/locate/index.htm
 
 ## Power Outage Data
 * Power Outage Map for Florida [https://poweroutage.us/area/state/florida](https://poweroutage.us/area/state/florida)
-* Josh Milton has created a KML network link available at [https://milton-tak.ddns.network/](https://milton-tak.ddns.network/)
+* Josh Fuller has created a KML network link available at [https://milton-tak.ddns.network/](https://milton-tak.ddns.network/)
 * Source code is available at [https://github.com/joshuafuller/PowerOutage2ATAK](https://github.com/joshuafuller/PowerOutage2ATAK)
 
 ## TAK Server Plugin for FL511
