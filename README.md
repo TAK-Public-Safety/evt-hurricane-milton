@@ -6,6 +6,7 @@ Coordination of Hurricane Milton Response between federal, state and local publi
 * [Team Colors](#team-colors)
 * [Data Packages and Resources](#data-packages-and-resources)
 * [Alternate Comms](#alternate-comms)
+* [Power Outage Data](#power-outage-data)
 * [TAK Server Plugin for FL511](#tak-server-plugin-for-fl511)
 * [PulsePoint Integration](#pulsepoint-integration)
 
@@ -36,10 +37,14 @@ A locator URL is available at [https://takserver.takps.org:8446/locate/index.htm
 * [NWS KML Data Package Zip](https://github.com/user-attachments/files/17286314/NHC_MILTON_KML_LINKS.zip)
 * [Animal_Shelter_MILTON_HADRv1-1.kmz](https://github.com/TAK-Public-Safety/evt-hurricane-milton/raw/refs/heads/main/Animal_Shelter_MILTON_HADRv1-1.kmz)
 * GeoJSONs for various Florida assets is available at [https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/geojson](https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/geojson)
-* Power Outage Map for Florida [https://poweroutage.us/area/state/florida](https://poweroutage.us/area/state/florida)
 
 ## Alternate Comms
 * [The Hurricane Watch Net](https://hwn.org) is active on 14.325.00 MHz (USB) and 7.268.00 MHz (LSB)
+
+## Power Outage Data
+* Power Outage Map for Florida [https://poweroutage.us/area/state/florida](https://poweroutage.us/area/state/florida)
+* Josh Milton has created a KML network link available at [https://milton-tak.ddns.network/](https://milton-tak.ddns.network/)
+* Source code is available at [https://github.com/joshuafuller/PowerOutage2ATAK](https://github.com/joshuafuller/PowerOutage2ATAK)
 
 ## TAK Server Plugin for FL511
 Raytheon BBN (Nate Soule) has developed a TAK Server plugin for FL511 Data. Refer to [https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/fl511-plugin](https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/fl511-plugin) to download and install instructions
