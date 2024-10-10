@@ -1,6 +1,14 @@
 # Hurricane Milton Response
 Coordination of Hurricane Milton Response between federal, state and local public safety organizations. Available as a single page at [https://milton.takps.org](https://milton.takps.org) backed by a [GitHub repository](https://github.com/TAK-Public-Safety/evt-hurricane-milton)
 
+## Table of Contents
+* [TAK Servers](#tak-servers)
+* [Team Colors](#team-colors)
+* [Data Packages and Resources](#data-packages-and-resources)
+* [Alternate Comms](#alternate-comms)
+* [TAK Server Plugin for FL511](#tak-server-plugin-for-fl511)
+* [PulsePoint Integration](#pulsepoint-integration)
+
 ## TAK Servers
 The following TAK Servers are available:
 
@@ -28,12 +36,13 @@ A locator URL is available at [https://takserver.takps.org:8446/locate/index.htm
 * [NWS KML Data Package Zip](https://github.com/user-attachments/files/17286314/NHC_MILTON_KML_LINKS.zip)
 * [Animal_Shelter_MILTON_HADRv1-1.kmz](https://github.com/TAK-Public-Safety/evt-hurricane-milton/raw/refs/heads/main/Animal_Shelter_MILTON_HADRv1-1.kmz)
 * GeoJSONs for various Florida assets is available at [https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/geojson](https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/geojson)
-
-## TAK Server Plugin for FL511
-Raytheon BBN (Nate Soule) has developed a TAK Server plugin for FL511 Data. Refer to [https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/fl511-plugin](https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/fl511-plugin) to download and install instructions
+* Power Outage Map for Florida [https://poweroutage.us/area/state/florida](https://poweroutage.us/area/state/florida)
 
 ## Alternate Comms
 * [The Hurricane Watch Net](https://hwn.org) is active on 14.325.00 MHz (USB) and 7.268.00 MHz (LSB)
+
+## TAK Server Plugin for FL511
+Raytheon BBN (Nate Soule) has developed a TAK Server plugin for FL511 Data. Refer to [https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/fl511-plugin](https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/fl511-plugin) to download and install instructions
 
 ## PulsePoint Integration
 * If you want a feed of PulsePoint data, you can federate to the HurricaneMiltonDataFeed on the TAKPS Servers or follow the steps [here](https://github.com/TAK-Public-Safety/evt-hurricane-milton/tree/main/pulsepoint)
