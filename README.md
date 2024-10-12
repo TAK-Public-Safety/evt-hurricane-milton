@@ -2,6 +2,7 @@
 Coordination of Hurricane Milton Response between federal, state and local public safety organizations. Available as a single page at [https://milton.takps.org](https://milton.takps.org) backed by a [GitHub repository](https://github.com/TAK-Public-Safety/evt-hurricane-milton)
 
 ## Table of Contents
+* [Post Storm Imagery](#post-storm-imagery)
 * [TAK Servers](#tak-servers)
 * [Team Colors](#team-colors)
 * [Data Packages and Resources](#data-packages-and-resources)
@@ -9,6 +10,19 @@ Coordination of Hurricane Milton Response between federal, state and local publi
 * [Power Outage Data](#power-outage-data)
 * [TAK Server Plugin for FL511](#tak-server-plugin-for-fl511)
 * [PulsePoint Integration](#pulsepoint-integration)
+
+## Post Storm Imagery
+(From [Joseph Elfelt](https://mappingsupport.com)
+NOAA has started to post high resolution aerial photos taken over areas that may have been affected by Hurricane Milton.  So far, 4 flights from October 11 have been posted.  You can add that data to ATAK using this MultiLayer XML file:
+
+[https://mappingsupport.com/p2/special_maps/disaster/NOAA_damage_aerials/noaa_aerials_2024_milton.xml](https://mappingsupport.com/p2/special_maps/disaster/NOAA_damage_aerials/noaa_aerials_2024_milton.xml)
+
+As additional flights take place I will update this XML file.
+
+To view this data in ATAK as an overlay you need to *manually* placed the XML file in the ATAK grg folder.  All other ways to access this data in ATAK will treat the data as a basemap. Reminder: ATAK cannot open the WMTS capabilities file NOAA provides.
+
+Master link to NOAA disaster imagery:
+[https://storms.ngs.noaa.gov/](https://storms.ngs.noaa.gov/)
 
 ## TAK Servers
 The following TAK Servers are available:
