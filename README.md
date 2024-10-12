@@ -12,7 +12,8 @@ Coordination of Hurricane Milton Response between federal, state and local publi
 * [PulsePoint Integration](#pulsepoint-integration)
 
 ## Post Storm Imagery
-(From [Joseph Elfelt](https://mappingsupport.com)
+(From [Joseph Elfelt](https://mappingsupport.com))
+
 NOAA has started to post high resolution aerial photos taken over areas that may have been affected by Hurricane Milton.  So far, 4 flights from October 11 have been posted.  You can add that data to ATAK using this MultiLayer XML file:
 
 [https://mappingsupport.com/p2/special_maps/disaster/NOAA_damage_aerials/noaa_aerials_2024_milton.xml](https://mappingsupport.com/p2/special_maps/disaster/NOAA_damage_aerials/noaa_aerials_2024_milton.xml)
